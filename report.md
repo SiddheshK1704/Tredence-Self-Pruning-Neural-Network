@@ -1,9 +1,3 @@
-
----
-
-# 🧾  `Report.md` (clean + human)
-
-```markdown
 # Self-Pruning Neural Network Report
 
 ## Overview
