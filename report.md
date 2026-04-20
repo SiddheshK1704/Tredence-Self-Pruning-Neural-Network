@@ -1,7 +1,7 @@
 
 ---
 
-# 🧾 8. `report.md` (clean + human)
+# 🧾  `Report.md` (clean + human)
 
 ```markdown
 # Self-Pruning Neural Network Report
